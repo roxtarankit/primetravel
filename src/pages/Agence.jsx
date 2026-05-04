@@ -48,7 +48,7 @@ const INITIAL_STORIES = [
     state: 'Uttarakhand',
     date: 'June 2025',
     color: '#a78bfa',
-    image: '/images/priya2.jpeg',
+    image: '/images/hampi.jpg',
     quote: 'At 2,270m above sea level, the air is thin but the soul feels full.',
     story: 'I enjoyed the mussoorie and Dehradun view from the sky high mountains.',
     tags: ['Solo Travel', 'Scenery', 'Himalaya'],
