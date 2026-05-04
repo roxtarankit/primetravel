@@ -7,12 +7,12 @@ import ProjectCard from '../components/projects/ProjectCard'
 
 gsap.registerPlugin(ScrollTrigger)
 
-import img1 from '../assets/image1.jpg'
-import img2 from '../assets/priya5.jpeg'
-import img3 from '/images/priya2.jpeg'
-import img4 from '../assets/image3.jpg'
-import img5 from '../assets/Auli_Himalayas.jpg'
-import img6 from '../assets/image6.jpg'
+const img1 = '/images/image1.jpg'
+const img2 = '/images/priya5.jpeg'
+const img3 = '/images/priya2.jpeg'
+const img4 = '/images/image3.jpg'
+const img5 = '/images/Auli_Himalayas.jpg'
+const img6 = '/images/image6.jpg'
 
 const projects = [
   {

@@ -585,7 +585,7 @@ const Agence = () => {
         <div className="flex flex-col lg:flex-row gap-12 items-center">
           {/* Image */}
           <div className="relative shrink-0 w-64 h-80 rounded-3xl overflow-hidden">
-            <img src="/src/assets/priya4.jpeg"
+            <img src="/images/priya4.jpeg"
               alt="Priya" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
             <div className="absolute bottom-5 left-5">
