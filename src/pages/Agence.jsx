@@ -48,7 +48,7 @@ const INITIAL_STORIES = [
     state: 'Uttarakhand',
     date: 'June 2025',
     color: '#a78bfa',
-    image: '/images/priya2.jpg',
+    image: '/images/priya2.jpeg',
     quote: 'At 2,270m above sea level, the air is thin but the soul feels full.',
     story: 'I enjoyed the mussoorie and Dehradun view from the sky high mountains.',
     tags: ['Solo Travel', 'Scenery', 'Himalaya'],
@@ -585,7 +585,7 @@ const Agence = () => {
         <div className="flex flex-col lg:flex-row gap-12 items-center">
           {/* Image */}
           <div className="relative shrink-0 w-64 h-80 rounded-3xl overflow-hidden">
-            <img src="/images/priya4.jpg"
+            <img src="/images/priya4.jpeg"
               alt="Priya" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
             <div className="absolute bottom-5 left-5">
