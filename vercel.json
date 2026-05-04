@@ -1,5 +1,7 @@
 {
   "rewrites": [
+    { "source": "/videos/(.*)", "destination": "/videos/$1" },
+    { "source": "/images/(.*)", "destination": "/images/$1" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
