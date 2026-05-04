@@ -76,7 +76,7 @@ const INITIAL_STORIES = [
     state: 'Karnataka',
     date: 'February 2024',
     color: '#fb923c',
-    image: '/images/hero.jpg',
+    image: '/images/hampi.jpg',
     quote: 'Ruins don\'t feel broken here. They feel like they\'re still breathing.',
     story: 'I cycled through Hampi for three days with no itinerary. Giant boulders balanced on each other like giants froze mid-play. The Virupaksha temple at sunset — the sky turned the colour of turmeric. I sat on a boulder and cried a little. India does that to you.',
     tags: ['Cycling', 'History', 'Temples'],
