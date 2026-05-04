@@ -29,7 +29,7 @@ const Navbar = () => {
         onClick={() => setNavOpen(true)}
         onMouseEnter={() => { navGreenRef.current.style.height = '100%' }}
         onMouseLeave={() => { navGreenRef.current.style.height = '0%'  }}
-        className='lg:h-16 h-10 bg-black relative lg:w-[16vw] w-48 cursor-pointer'
+        className='lg:h-16 h-10 bg-black relative lg:w-[12vw] w-48 cursor-pointer'
       >
         <div
           ref={navGreenRef}
